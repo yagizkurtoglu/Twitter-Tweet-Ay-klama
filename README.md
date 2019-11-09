@@ -1,4 +1,4 @@
-# Twitter-Tweet-Ay-klama
+# Twitter-Tweet-Ayiklama-Araci
 Selenium ile belirli kelimelerin geçtiği tweetleri ayıklama.
 
 <ul>
