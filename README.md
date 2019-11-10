@@ -2,6 +2,9 @@
 Selenium ile belirli kelimelerin geçtiği tweetleri ayıklama.
 
 <ul>
+<li>py dosyasını çalıştırmak için selenium kütüphanesinin kurulması ve chrome driver dosyasının indirilmesi yeterlidir.</li>
+<li>uygun driver dosyası için link : </li>
+<li>https://selenium-python.readthedocs.io/installation.html#drivers</li>
 <li>Tarayıcı (driver) default ingilizce olarak başlatılır.</li>
 <li>Fonksiyonun kullanımı i&ccedil;in Login koşulu vardır. Login i&ccedil;in herhangi bir kod eklenmesine gerek yok.</li>
 <li>Tweetleri filtrelenecek kullanıcı adı girişi beklenir.</li>
